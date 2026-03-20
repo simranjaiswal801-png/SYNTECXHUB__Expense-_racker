@@ -1,4 +1,4 @@
-# 💡 Expense Tracker – Tech Explanation (COMPLETE)
+# 💡 Expense Tracker 
 
 ## 🧠 1. Frontend Technology
 **React**
